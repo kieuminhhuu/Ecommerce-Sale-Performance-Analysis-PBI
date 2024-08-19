@@ -1,7 +1,7 @@
 # Superstore-Analysis
 # Introduction
 - Đặt vấn đề:
-  - Superstore là một công ty bán hàng có cửa hàng trên toàn thế giới. Senior Manager muốn nắm được thông tin về tình hình kinh doanh của công ty để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược. Sử dụng PowerBI để trực quan hóa tình hình kinh doanh của Superstore, đưa ra Insight và Recommendation cho doanh nghiệp
+  - Superstore là một công ty bán lẻ  có cửa hàng trên toàn thế giới. Senior Manager muốn nắm được thông tin về tình hình kinh doanh của công ty để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược. Sử dụng PowerBI để trực quan hóa tình hình kinh doanh của Superstore, đưa ra Insight và Recommendation cho doanh nghiệp
 - Dataset: bao gồm 3 bảng là Orders, People, Returns. Trong đó:
   - Orders: lưu thông tin thời gian, sản phẩm, khách hàng của tất cả đơn hàng từ 01/01/2011 → 31/12/2014 của Superstore
   - People: lưu thông tin người bán hàng của từng khu vực
