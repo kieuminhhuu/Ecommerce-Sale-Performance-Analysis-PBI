@@ -7,4 +7,4 @@
   - People: lưu thông tin người bán hàng của từng khu vực
   - Returns: lưu thông tin các đơn hàng bị trả lại
 # Analysis & Visualization
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7dfe9c5a-45e1-46bb-a4de-eab2e41b10df/3019f571-3672-4918-aac3-3dbced7d7fce/image.png)
+<img src="https://github.com/user-attachments/assets/6033f2e3-f7eb-4f55-9729-b0c21ef7ba8b" alt="..." width="500" />
