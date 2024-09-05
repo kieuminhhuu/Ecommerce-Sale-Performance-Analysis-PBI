@@ -22,7 +22,7 @@
 - Tỷ lệ đơn hàng hoàn trung bình là khoảng 4,68% và trả giảm dần qua các năm
 - Khu vực có doanh thu cao nhất là Central 2.8 triệu đô
 - Khu vực có lợi nhuận cao nhất là Central 300 nghìn đô
-- Loại sản phẩm bán chạy nhất là Office supplies chiếm 60% số lượng sản phẩm bán ra
+- Loại sản phẩm bán chạy nhất là Office Supplies chiếm 60% số lượng sản phẩm bán ra
 - Tổng số đơn hàng đã có được là khoảng 25000 đơn và đã bán khoảng 178000 sản phẩm, trung bình doanh thu của một đơn hàng là khoảng 505 đô đem lại lợi nhuẩn khoảng 59 đô
 - Tổng quan thì doanh thu hàng năm vẫn tăng nhưng mà tăng rất ít điều này là do:
     - Thứ 1: Phần lớn các sản phẩm bán ra 60% là thuộc nhóm Offier Supplies, 20% là Tech và 20% là Funiture, nhưng về doanh thu thì các sản phẩm Tech và Office có tỷ lệ bằng nhau là 38% điều này có thể giải thích vì đồ công nghệ thường có giá trị cao hơn nhiều so với đồ văn phòng, trung bình các đơn hàng thuộc nhóm offices chỉ khoảng 200$, còn Funiture hay Technology là khoảng 500$ -> tức là phần lớn sản phẩm bán ra là những sản phẩm có giá trị nhỏ
@@ -37,4 +37,5 @@
     - Bán thêm các sản phẩm nâng cấp hoặc các sản phẩm trong nhóm hàng Technology hoặc Furniture
     - Riêng khu vực North cần tìm hiểu nguyên ngân khách hàng hủy đơn để giảm tỷ lệ hủy hiện tại là 10%
 - Khu vực North Asia cũng cần tìm hiểu nguyên nhân để giảm tỷ lệ hủy đơn hàng
+- Tăng giá trị đơn hàng của mặt hàng Office Supplies bằng cross-sell, upsell
 
