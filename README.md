@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Performance-Analysis[PBI]
+# Ecommerce Sales Performance Analysis[PBI]
 # Introduction
 - Đặt vấn đề:
   - Superstore là một công ty bán lẻ  có cửa hàng trên toàn thế giới. Senior Manager muốn nắm được thông tin về tình hình kinh doanh của công ty để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược. Sử dụng PowerBI để trực quan hóa tình hình kinh doanh của Superstore, đưa ra Insight và Recommendation cho doanh nghiệp
