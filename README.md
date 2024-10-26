@@ -1,11 +1,11 @@
 # Ecommerce Sales Performance Analysis[PBI]
 # Introduction
-- Đặt vấn đề:
-  - Superstore là một công ty bán lẻ  có cửa hàng trên toàn thế giới. Senior Manager muốn nắm được thông tin về tình hình kinh doanh của công ty để đưa ra chiến lược mở rộng thị trường và quyết định lựa chọn sản phẩm chiến lược. Sử dụng PowerBI để trực quan hóa tình hình kinh doanh của Superstore, đưa ra Insight và Recommendation cho doanh nghiệp
-- Dataset: bao gồm 3 bảng là Orders, People, Returns. Trong đó:
-  - Orders: lưu thông tin thời gian, sản phẩm, khách hàng của tất cả đơn hàng từ 01/01/2011 → 31/12/2014 của Superstore
-  - People: lưu thông tin người bán hàng của từng khu vực
-  - Returns: lưu thông tin các đơn hàng bị trả lại
+- Problem statement:
+  - Superstore is a retail company with stores all over the world. The Senior Manager wants to grasp information about the company's business situation to develop a market expansion strategy and decide on strategic product selection. Use PowerBI to visualize the Superstore's business situation, provide Insight and Recommendation for the business
+- Dataset: includes 3 tables: Orders, People, Returns. In which:
+  - Orders: stores information about time, products, customers of all orders from 01/01/2011 → 31/12/2014 of Superstore
+  - People: stores information about sellers of each region
+  - Returns: stores information about returned orders
 # Analysis & Visualization
 <img src="https://github.com/user-attachments/assets/6033f2e3-f7eb-4f55-9729-b0c21ef7ba8b" alt="..." width="500" /><br />
 <img src="https://github.com/user-attachments/assets/efbfcff7-b483-4d01-aae4-1cd68060ee80" alt="..." width="500" /><br />
@@ -18,24 +18,24 @@
 <img src="https://github.com/user-attachments/assets/717966b5-a255-497c-b0bf-3145ee01147b" alt="..." width="500" /><br />
 <img src="https://github.com/user-attachments/assets/a7244a5c-29b7-4e36-acab-4025efde2b0d" alt="..." width="500" /><br />
 # Key Insights
-- Tổng doanh thu là 12,64m với lợi nhuận là 1,47m, tỷ suất lợi nhuận là khoảng 11%
-- Tỷ lệ đơn hàng hoàn trung bình là khoảng 4,68% và trả giảm dần qua các năm
-- Khu vực có doanh thu cao nhất là Central 2.8 triệu đô
-- Khu vực có lợi nhuận cao nhất là Central 300 nghìn đô
-- Loại sản phẩm bán chạy nhất là Office Supplies chiếm 60% số lượng sản phẩm bán ra
-- Tổng số đơn hàng đã có được là khoảng 25000 đơn và đã bán khoảng 178000 sản phẩm, trung bình doanh thu của một đơn hàng là khoảng 505 đô đem lại lợi nhuẩn khoảng 59 đô
-- Tổng quan thì doanh thu hàng năm vẫn tăng nhưng mà tăng rất ít điều này là do:
-    - Thứ 1: Phần lớn các sản phẩm bán ra 60% là thuộc nhóm Offier Supplies, 20% là Tech và 20% là Funiture, nhưng về doanh thu thì các sản phẩm Tech và Office có tỷ lệ bằng nhau là 38% điều này có thể giải thích vì đồ công nghệ thường có giá trị cao hơn nhiều so với đồ văn phòng, trung bình các đơn hàng thuộc nhóm offices chỉ khoảng 200$, còn Funiture hay Technology là khoảng 500$ -> tức là phần lớn sản phẩm bán ra là những sản phẩm có giá trị nhỏ
-    - Thứ 2: Qua các năm số lượng sản phẩm bán ra đều tăng nhưng phần lớn là các sản phẩm thuộc nhóm Office Supplies còn sản phẩm thuộc nhóm Technology hoặc Furniture tăng rất ít
-    - Thứ 3: Tỷ lệ lợi nhuận từ các nhóm sản phẩm cũng không cao: 2 nhóm Office và Tech là khoảng 14% còn Furniture thì khoảng 6%
-- Khu vực có tỷ lệ trả hàng cao nhất là North Asia với gần 14%
-- Các tháng đầu năm có xu hướng giảm số lượng đơn hàng
+- Total revenue is 12.64m with profit of 1.47m, profit margin is about 11%
+- Average return rate is about 4.68% and returns decrease over the years
+- The region with the highest revenue is Central 2.8 million dollars
+- The region with the highest profit is Central 300 thousand dollars
+- The best selling product type is Office Supplies accounting for 60% of the number of products sold
+- The total number of orders received is about 25,000 orders and about 178,000 products sold, the average revenue of an order is about 505 dollars, bringing in a profit of about 59 dollars
+- Overall, the annual revenue is still increasing but the increase is very small, this is due to:
+  - First: Most of the products sold 60% are in the Offier Supplies group, 20% are Tech and 20% are Funiture, but in terms of revenue, Tech and Office products have The ratio is 38%, which can be explained by the fact that technology products are often much more valuable than office products. On average, orders in the office group are only about $200, while Furniture or Technology are about $500 -> that is, most of the products sold are products with small value.
+  - Second: Over the years, the number of products sold has increased, but most of them are products in the Office Supplies group, while products in the Technology or Furniture groups have increased very little.
+  - Third: The profit margin from product groups is also not high: the Office and Tech groups are about 14%, while Furniture is about 6%.
+- The region with the highest return rate is North Asia with nearly 14%.
+- The first months of the year tend to decrease the number of orders.
 # Recommendations
-- Tập chung hơn vào việc bán các sản phẩm về Technology hoặc Furniture
-- Đối với top 5 khu vực đem lại doanh thu cao nhất là Central, South, North, Oceania, Southeast Asia thì cần:
-    - Luôn đảm bảo các sản phẩm bán chạy còn trong kho
-    - Bán thêm các sản phẩm nâng cấp hoặc các sản phẩm trong nhóm hàng Technology hoặc Furniture
-    - Riêng khu vực North cần tìm hiểu nguyên ngân khách hàng hủy đơn để giảm tỷ lệ hủy hiện tại là 10%
-- Khu vực North Asia cũng cần tìm hiểu nguyên nhân để giảm tỷ lệ hủy đơn hàng
-- Tăng giá trị đơn hàng của mặt hàng Office Supplies bằng cross-sell, upsell
+- Focus more on selling Technology or Furniture products
+- For the top 5 regions with the highest revenue, Central, South, North, Oceania, Southeast Asia, it is necessary to:
+  - Always ensure that best-selling products are in stock
+  - Sell additional upgraded products or products in the Technology or Furniture product group
+  - In particular, the North region needs to find out the reasons why customers cancel orders to reduce the cancellation rate, currently 10%
+- The North Asia region also needs to find out the reasons to reduce the cancellation rate
+- Increase the order value of Office Supplies items by cross-selling, upselling
 
